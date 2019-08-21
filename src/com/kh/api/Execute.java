@@ -17,7 +17,7 @@ public class Execute {
 		Date today = new Date();
 		System.out.println(today);
 	
-		//문자열클래스 Stringx`
+		//문자열클래스 String
 		System.out.println(new String("안녕:)"));
 	}
 }
